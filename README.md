@@ -1,1 +1,1 @@
-# friends2
+# friends
